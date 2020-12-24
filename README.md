@@ -12,5 +12,5 @@ Run `npm run http` for a http server. Navigate to `http://localhost:8080/`. The 
 
 ## Further help
 
-angular pwa `https://angular.io/guide/service-worker-getting-started`
-http-server `https://www.npmjs.com/package/http-server`
+`https://angular.io/guide/service-worker-getting-started`
+`https://web.dev/precaching-with-the-angular-service-worker/`
